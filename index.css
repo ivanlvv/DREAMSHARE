@@ -232,6 +232,7 @@
     line-height: 17px;
     color: white;
     margin-top: 3%;
+    cursor: pointer;
 }
 .name-box {
     width: 299px;
